@@ -67,6 +67,8 @@ My environment is based on
 * pip3 install tqdm
 * pip3 install opencv-python
 * pip3 install scikit-learn
+* pip3 install segmentation_models
+* pip3 install keras_efficientnets
 
 
 # Conclusion 
